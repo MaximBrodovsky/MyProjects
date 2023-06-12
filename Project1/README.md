@@ -5,5 +5,5 @@
 * разведывательный анализ;
 * очистка данных.
 
-Проект выполнялся в [Jupyter Notebook](https://github.com/MaximBrodovsky/Skillfactory.Project1/blob/master/Project-1.HeadHaunter-CV-Analisis.ipynb). Поскольку графики выполнялись в plotly, для удобства просмотра на GitHub были добавлены изображения в формате PNG, дублирующие содержимое графиков.
+Проект выполнялся в [Jupyter Notebook](Project-1.HeadHaunter-CV-Analisis.ipynb). Поскольку графики выполнялись в plotly, для удобства просмотра на GitHub были добавлены изображения в формате PNG, дублирующие содержимое графиков.
 
